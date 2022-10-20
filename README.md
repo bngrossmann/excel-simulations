@@ -1,4 +1,4 @@
-# excel-optical-bench
+# excel-simulations
 Simulation of a lens on an optical bench made in Excel.
 
 There are some Excel features used that are not supported within other spreadsheet environments. Also, some Excel features (e.g. controls) used in this simulation are not guarenteed to work on older versions of Excel.
